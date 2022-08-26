@@ -1,0 +1,20 @@
+<students>
+ <student>
+   <name>Rick Grimes
+   <age>35</age>
+   <subject>Maths</subject>
+   <gender>Male</gender>
+ </student>
+ <student>
+   <name>Daryl Dixon </name>
+   <age>33
+   <subject>Science</subject>
+   <gender>Male</gender>
+ </student>
+ <student>
+   <name>Maggie</name>
+   <age>36
+   <subject>Arts</subject>
+   <gender>Female</gender>
+ </student>
+</students>
