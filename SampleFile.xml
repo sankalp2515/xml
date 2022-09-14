@@ -1,0 +1,172 @@
+<?xml version="1.0"?><FCMDocumentImport>
+  <DocumentInfo>
+<AccountInfo>
+ <AccountNumber>456</AccountNumber>
+      <AccountType>E</AccountType>
+</AccountInfo>
+    <AccountInfo>
+      <AccountNumber>123</AccountNumber>
+      <AccountType>D</AccountType>
+    </AccountInfo>      
+    <DocumentType>SIGNATURE CARD</DocumentType>
+    <Date>12/01/2020</Date>
+    <Description>CERTIFICATE OF 
+    DEPOSIT CABINET</Description>
+    <ImageFileType>pdf</ImageFileType>
+    <ImageFileName>43300_001.PDF</ImageFileName>
+<SnippetInfo>
+<SnippetFileType>S</SnippetFileType>
+<SnippetFileName>snippet.tif</SnippetFileName>
+</SnippetInfo>
+<SnippetInfo>
+</SnippetInfo>
+<NoteInfo>
+<NoteDate>02/10/2015 13:21:43</NoteDate>
+<NoteText></NoteText>
+<Operator></Operator>
+<PageNumber>1</PageNumber>
+<Priority></Priority>
+</NoteInfo>
+<NoteInfo>
+<NoteDate>02/11/2015 </NoteDate>
+<NoteText>This is a second test for importing notes using xml parser</NoteText>
+<PageNumber>2</PageNumber>
+</NoteInfo>
+    <AdditionalInfo>
+      <FieldName>Document Type</FieldName>
+      <FieldValue/>
+    </AdditionalInfo>
+    <AdditionalInfo>
+      <FieldName></FieldName>
+      <FieldValue>3000907</FieldValue>
+    </AdditionalInfo>
+    <AdditionalInfo>
+      <FieldName>CIF NUMBER</FieldName>
+      <FieldValue>P0014100</FieldValue>
+    </AdditionalInfo>
+    <AdditionalInfo>
+      <FieldName>DOC DATE</FieldName>
+      <FieldValue>11/30/2020</FieldValue>
+    </AdditionalInfo>
+    <AdditionalInfo>
+      <FieldName>DocType</FieldName>
+      <FieldValue>Document</FieldValue>
+    </AdditionalInfo>
+    <AdditionalInfo>
+      <FieldName>idxCabinet</FieldName>
+      <FieldValue>CERTIFICATE OF DEPOSIT CABINET</FieldValue>
+    </AdditionalInfo>
+    <AdditionalInfo>
+      <FieldName>idxCabinetType</FieldName>
+      <FieldValue>CERTIFICATE OF DEPOSIT CABINET - SIGNATURE CARD</FieldValue>
+    </AdditionalInfo>
+    <AdditionalInfo>
+      <FieldName>idxCreation Date</FieldName>
+      <FieldValue>12/01/2020</FieldValue>
+    </AdditionalInfo>
+    <AdditionalInfo>
+      <FieldName>idxInstitution</FieldName>
+      <FieldValue>63</FieldValue>
+    </AdditionalInfo>
+    <AdditionalInfo>
+      <FieldName>idxModified Date</FieldName>
+      <FieldValue>12/01/2020</FieldValue>
+    </AdditionalInfo>
+    <AdditionalInfo>
+      <FieldName>idxType</FieldName>
+      <FieldValue>SIGNATURE CARD</FieldValue>
+    </AdditionalInfo>
+    <AdditionalInfo>
+      <FieldName>NAME</FieldName>
+      <FieldValue>JOHN PEREZ JR</FieldValue>
+    </AdditionalInfo>
+    <AdditionalInfo>
+      <FieldName>SHORT NAME</FieldName>
+      <FieldValue>PEREZ     JOH</FieldValue>
+    </AdditionalInfo>
+    <AdditionalInfo>
+      <FieldName>TAX ID</FieldName>
+      <FieldValue>342448579</FieldValue>
+    </AdditionalInfo>
+  </DocumentInfo>
+  <DocumentInfo>
+    <AccountInfo>
+      <AccountNumber>7001308</AccountNumber>
+      <AccountType>T</AccountType>
+    </AccountInfo>
+    	<AccountInfo>
+               <AccountNumber>123</AccountNumber>
+               <AccountType>D</AccountType>
+	</AccountInfo>
+    <DocumentType>SIGNATURE CARD</DocumentType>
+    <Date>12/01/2020</Date>
+    <Description>CERTIFICATE OF DEPOSIT CABINET</Description>
+    <ImageFileType>pdf</ImageFileType>
+    <ImageFileName>43309_001.PDF</ImageFileName>
+<SnippetInfo>
+<SnippetFileType>D</SnippetFileType>
+<SnippetFileName>snippet.pdf</SnippetFileName>
+</SnippetInfo>
+<NoteInfo>
+<NoteDate>02/11/2015 </NoteDate>
+<NoteText>This is a second test for importing notes using xml parser</NoteText>
+<PageNumber>2</PageNumber>
+</NoteInfo>
+    <AdditionalInfo>
+      <FieldName>Document Type</FieldName>
+      <FieldValue>SIGNATURE CARD</FieldValue>
+    </AdditionalInfo>
+    <AdditionalInfo>
+      <FieldName>ACCOUNT NUMBER</FieldName>
+      <FieldValue></FieldValue>
+    </AdditionalInfo>
+    <AdditionalInfo>
+      <FieldName>CIF NUMBER</FieldName>
+      <FieldValue>S0019130</FieldValue>
+    </AdditionalInfo>
+    <AdditionalInfo>
+      <FieldName>DOC DATE</FieldName>
+      <FieldValue>11/16/2020</FieldValue>
+    </AdditionalInfo>
+    <AdditionalInfo>
+      <FieldName>DocType</FieldName>
+      <FieldValue>Document</FieldValue>
+    </AdditionalInfo>
+    <AdditionalInfo>
+      <FieldName>idxCabinet</FieldName>
+      <FieldValue>CERTIFICATE OF DEPOSIT CABINET</FieldValue>
+    </AdditionalInfo>
+    <AdditionalInfo>
+      <FieldName>idxCabinetType</FieldName>
+      <FieldValue>CERTIFICATE OF DEPOSIT CABINET - SIGNATURE CARD</FieldValue>
+    </AdditionalInfo>
+    <AdditionalInfo>
+      <FieldName>idxCreation Date</FieldName>
+      <FieldValue>12/01/2020</FieldValue>
+    </AdditionalInfo>
+    <AdditionalInfo>
+      <FieldName>idxInstitution</FieldName>
+      <FieldValue>63</FieldValue>
+    </AdditionalInfo>
+    <AdditionalInfo>
+      <FieldName>idxModified Date</FieldName>
+      <FieldValue>12/01/2020</FieldValue>
+    </AdditionalInfo>
+    <AdditionalInfo>
+      <FieldName>idxType</FieldName>
+      <FieldValue>SIGNATURE CARD</FieldValue>
+    </AdditionalInfo>
+    <AdditionalInfo>
+      <FieldName>NAME</FieldName>
+      <FieldValue>WAYNE THOMAS SCHILLING</FieldValue>
+    </AdditionalInfo>
+    <AdditionalInfo>
+      <FieldName>SHORT NAME</FieldName>
+      <FieldValue>SCHILLING WAY</FieldValue>
+    </AdditionalInfo>
+    <AdditionalInfo>
+      <FieldName>TAX ID</FieldName>
+      <FieldValue>462801877</FieldValue>
+    </AdditionalInfo>
+  </DocumentInfo>
+ </FCMDocumentImport>
